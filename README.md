@@ -7,3 +7,9 @@ The code I wrote in the Jupyter notebook you can find in this particular reposit
 ![Hotdog](./hotdog.jpg)
 
 ## TODO List
+
+- [ ] Writing a blog post about the process (Persian)
+- [ ] Writing a blog post about the process (English)
+- [ ] Testing the model with more data
+- [ ] Testing the model with more iterations
+- [ ] Testing the model with different batch sizes
